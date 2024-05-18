@@ -1,0 +1,15 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/*.crswap": true,
+    "**/*tsconfig.json": true,
+    "**/.retool_types/**": true,
+    ".cache": true,
+    "retool.config.json": true
+  }
+}
